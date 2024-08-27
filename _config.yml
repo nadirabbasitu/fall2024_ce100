@@ -21,14 +21,14 @@
 
 site_mode_isOffline: &my_anchor false #set true if site is no more getting data from google sheets and also download sheet individually into csv format and place into csv_files files  names should be same as now these are
 
-
+include:false transitions:
 # Links
 
 # chagning for progress sheet
 courseDetails_sheet_url : 'https://script.google.com/macros/s/AKfycbycYfd2gXO4Zf1u3MYl-6fzUNj1qLWIcsEHF1CqpPmDAPNJmPT7fEaBUDK3yG3D-Ce_/exec'
 url: 'https://nadirabbasitu.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 #title: Object Oriented Programming - CE
-tagline: Fall 2024 - CE100 - OOP
+tagline: Fall 2024 - CE100 - CFP
 description: This introductory course is aimed at the students with little or no programming experience, and it introduces students to the basics of computers and programming. On one hand they will learn basic topics of computing and usage, while on the other hand they will be exposed to programming language(s). By the end of course the student should be capable of programming in at least one programming language.
 author: Nadir Abbas
 guide: https://github.com/nadirabbasitu/Material-Guides-and-Video-Tutorials
@@ -99,15 +99,15 @@ scheduleData:
           end: 9:30 AM
           location: Level 4 LT1
         - name: Nadir Appointment Slots
-            start: 3:00 PM
-            end: 5:00 PM
-            location: HPC Lab Level 4
+          start: 3:00 PM
+          end: 5:00 PM
+          location: HPC Lab Level 4
     - name: Thursday
       events:
         - name: TA Appointment Slots
-            start: 10:00 AM
-            end: 5:00 PM
-            location: HPC Lab Level 4
+          start: 10:00 AM
+          end: 5:00 PM
+          location: HPC Lab Level 4
     - name: Friday
       events:
 
