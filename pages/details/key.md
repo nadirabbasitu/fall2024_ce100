@@ -5,7 +5,7 @@ nav_order: 3
 description: >-
     Key and course policy
 ---
-{% assign imagePrefix = '/fall2024-ce100/' %}
+{% assign imagePrefix = '/fall2024_ce100/' %}
 # Key and Course Policy 
 {:.no_toc}
 
@@ -16,7 +16,7 @@ description: >-
 {:toc}
 
 ---
-<link rel="stylesheet" href="https://nadirabbasitu.github.io/fall2024-ce100/assets/css/style.css">
+<link rel="stylesheet" href="https://nadirabbasitu.github.io/fall2024_ce100/assets/css/style.css">
 ## Key:
 
 ![image]({{ imagePrefix }}assets/images/policy/key.png)

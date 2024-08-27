@@ -15,12 +15,12 @@ description: >-
 
 ## Theory
 
-![image](/fall2024-ce100/assets/images/course/theory-breakdown.png)
+![image](/fall2024_ce100/assets/images/course/theory-breakdown.png)
 
 
 ## Lab
 
-![image](/fall2024-ce100/assets/images/course/lab-breakdown.png)
+![image](/fall2024_ce100/assets/images/course/lab-breakdown.png)
 
 <script>
         const siteButton = document.getElementById('menu-button');

@@ -5,7 +5,7 @@ nav_order: 4
 description: >-
     Tools
 ---
-{% assign imagePrefix = '/fall2024-ce100/' %}
+{% assign imagePrefix = '/fall2024_ce100/' %}
 # Tools
 {:.no_toc}
 

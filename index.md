@@ -6,7 +6,7 @@ seo:
   type: Course
   
 ---
-<link rel="stylesheet" href="https://nadirabbasitu.github.io/fall2024-ce100/assets/css/style.css">
+<link rel="stylesheet" href="https://nadirabbasitu.github.io/fall2024_ce100/assets/css/style.css">
 <script>
   document.title = "{{ site.title }}"
 </script>
@@ -33,7 +33,7 @@ seo:
 
 <div id="loader"></div>
 
-<script src="https://nadirabbasitu.github.io/fall2024-ce100/assets/js/library.js"></script>
+<script src="https://nadirabbasitu.github.io/fall2024_ce100/assets/js/library.js"></script>
 <script>
         const siteButton = document.getElementById('menu-button');
         const siteNav = document.querySelector('.site-nav');
